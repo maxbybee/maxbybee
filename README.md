@@ -3,7 +3,7 @@
 ### _Who are You?_
 I am not a cat. (Despite what my profile picture implies)
 
-I have used the following tools/platforms/operating systems and am quite familiar with them:
+I have used the following tools/programming languages/platforms/operating systems and am quite familiar with them:
 
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
