@@ -8,8 +8,7 @@ I've been writing programs, building both simple and complex projects, and learn
 
 ##### Education:
 Luoyang Institute of Science and Technology - Computer Science Course
-
-Not a Degree but rather paid courses (on C Fundamentals and Manual Memory Management) given by a CS Professor of this university
+<sub>Not a Degree but rather paid courses (on C Fundamentals and Manual Memory Management) given by a CS Professor of this university</sub>
 
 ### I have experience building with:
 ---
