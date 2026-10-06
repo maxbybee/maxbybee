@@ -7,8 +7,9 @@ My Name is Max Bybee, I've loved computers since I was 10, after discovering pro
 I've been writing programs, building both simple and complex projects, and learning more about Computer Science ever since.
 
 ##### Education:
-Luoyang Institute of Science and Technology - Computer Science Course
-<sub>Not a Degree but rather paid courses (on C Fundamentals and Manual Memory Management) given by a CS Professor of this university</sub>
+Luoyang Institute of Science and Technology - Computer Science Course*
+
+<sub>*Not a Degree but rather paid courses (on C Fundamentals and Manual Memory Management) given by a CS Professor of this university</sub>
 
 ### I have experience building with:
 ---
