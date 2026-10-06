@@ -4,6 +4,8 @@
 I am not a cat. (Despite what my profile picture implies)
 
 ### I have experience building with:
+---
+
 #### Frontend
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/) [![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/) [![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/) [![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) [![](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/) [![](https://img.shields.io/badge/-HTMX-336699?style=for-the-badge&logo=htmx&logoColor=ffffff)](https://htmx.org/) [![](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=ffffff)](https://alpinejs.dev/)
 
@@ -18,6 +20,7 @@ I am not a cat. (Despite what my profile picture implies)
 
 #### Tools, Scripting & Integrations
 [![](https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/) [![](https://img.shields.io/badge/-GNU_Make-083F88?style=for-the-badge&logo=gnu&logoColor=ffffff)](https://www.gnu.org/software/make/) [![](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=ffffff)](https://stripe.com/)
+
 ### _Where are You?_
 Somewhere on Earth.
 
