@@ -4,7 +4,7 @@
 I am not a cat. (Despite what my profile picture implies)
 
 My Name is Max Bybee, I've loved computers since I was 10, after discovering programming I fell in love with it,
-and I've been building and experimenting programs and complex projects ever since.
+and I've been writing programs and building complex projects ever since.
 
 ### I have experience building with:
 ---
