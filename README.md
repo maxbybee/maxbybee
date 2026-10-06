@@ -4,7 +4,12 @@
 I am not a cat. (Despite what my profile picture implies)
 
 My Name is Max Bybee, I've loved computers since I was 10, after discovering programming I fell in love with it.
-I've been writing programs and building complex projects ever since.
+I've been writing programs, building both simple and complex projects, and learning more about Computer Science ever since.
+
+##### Education:
+Luoyang Institute of Science and Technology - Computer Science Course
+
+Not a Degree but rather that I took paid courses (on C Fundamentals and Manual Memory Management) given by a CS Professor of this university
 
 ### I have experience building with:
 ---
