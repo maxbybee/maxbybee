@@ -3,7 +3,7 @@
 ### _Who are You?_
 I am not a cat. (Despite what my profile picture implies)
 
-My Name is Max Bybee, I've loved computers since I was 10, after discovering programming I fell in love with it.
+My Name is Max Bybee, I've been messing around with computers since I was 10, and after discovering programming I fell in love with it.
 I've been writing programs, building both simple and complex projects, and learning more about Computer Science ever since.
 
 ##### Education:
